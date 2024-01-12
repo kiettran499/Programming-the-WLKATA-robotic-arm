@@ -1,7 +1,7 @@
 # Programming-the-WLKATA-robotic-arm
 
 <p align="center">
-  <img width="600" src="https://github.com/kiettran499/Programming-the-WLKATA-robotic-arm/blob/main/WLKATA-Mirobot-02.jpg">
+  <img width="500" src="https://github.com/kiettran499/Programming-the-WLKATA-robotic-arm/blob/main/WLKATA-Mirobot-02.jpg">
 
 ## Description
 
@@ -15,8 +15,8 @@
  
 ## Result
 
-Demonstration video for Task 1: https://www.youtube.com/watch?v=K4g7oYp-iQg
-Demonstration video for Task 2: https://www.youtube.com/watch?v=pwAInWuEkW4
-Demonstration video for Task 3: https://www.youtube.com/watch?v=ams2OOUbd_4
+- Demonstration video for Task 1: https://www.youtube.com/watch?v=K4g7oYp-iQg
+- Demonstration video for Task 2: https://www.youtube.com/watch?v=pwAInWuEkW4
+- Demonstration video for Task 3: https://www.youtube.com/watch?v=ams2OOUbd_4
 
 - According to the demo video above, the system has successfully managed to control the robot arm to perform some interactions with the cube by exploring the structure and parameters of the WKLATA Mirobot. The robotic project helps shed light on the industry requirements for robotic manufacturing as well as some programming languages such as G-code and Python.
